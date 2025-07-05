@@ -1,3 +1,17 @@
+# INTERACTIVE-QUIZ-APPLICATION
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Tirthesh Lanjewar
+
+*INTERN ID*: CT08DH1573
+
+*DOMAIN*: Java Programming
+
+*DURATION*: 8 WEEEKS
+I
+*MENTOR*: NEELA SANTOSH
+
 #  Interactive File Handling Utility in Java
 
 This project is a **console-based Java application** that demonstrates file handling operations including creating, reading, appending, overwriting, and deleting text files.
