@@ -1,4 +1,4 @@
-# INTERACTIVE-QUIZ-APPLICATION
+#  Interactive File Handling Utility in Java
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 I
 *MENTOR*: NEELA SANTOSH
 
-#  Interactive File Handling Utility in Java
+
 
 This project is a **console-based Java application** that demonstrates file handling operations including creating, reading, appending, overwriting, and deleting text files.
 
